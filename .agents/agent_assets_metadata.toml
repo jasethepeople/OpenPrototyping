@@ -1,0 +1,9 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "YsYWuR1Q2uaxCah3T282b"
+uri = "file://project-source.zip"
+type = "unspecified"
+title = "Project source code"
+description = "ZIP archive of all non-cache workspace files, including hidden project files. Dependency folders, build outputs, and generated caches were excluded."
